@@ -1,4 +1,4 @@
-file_path = 'input.txt'
+file_path = 'test_input.txt'
 file_contents = File.read(file_path)
 
 lines = file_contents.split("\n")
